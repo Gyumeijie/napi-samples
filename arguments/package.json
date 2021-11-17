@@ -1,0 +1,14 @@
+{
+  "name": "arguments",
+  "version": "0.0.0",
+  "description": "functions arguments",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "gypfile": true
+}
